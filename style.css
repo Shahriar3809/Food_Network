@@ -107,3 +107,49 @@ body{
     color: #ffffff;
     font-size: 30px;
 }
+
+
+
+
+
+.Third_Top {
+    text-align: center;
+}
+
+.third_section {
+    display: flex;
+    width: 1700px;
+    margin: auto;
+    
+}
+
+.div1, .div2, .div3 {
+    width: 33%;
+    box-shadow: -5px 5px 25px #888888;
+    border-radius: 30px;
+    height: 600px;
+    margin: 50px;
+    
+}
+
+.div1_pic, .div2_pic, .div3_pic {
+    width: 100%;
+}
+.div1_pic img, .div2_pic img, .div3_pic img {
+    width: 90%;
+    display: block;
+    margin: 20px auto;
+}
+
+.div1_text, .div2_text, .div3_text {
+    width: 90%;
+    margin: auto;
+}
+
+.div1_text, .div2_text, .div3_text {
+    font-size: 23px;
+}
+
+.Third_Top {
+    font-size: 25px;
+}
