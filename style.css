@@ -153,3 +153,27 @@ body{
 .Third_Top {
     font-size: 25px;
 }
+
+
+
+
+.Fourth_Section {
+    display: flex;
+    width: 1700px;
+    margin: auto;
+    box-shadow: -5px 5px 25px #888888;
+    border-radius: 30px;
+    
+}
+
+.Fourth_Section div {
+    width: 33%;
+    margin: 30px;
+    text-align: center;
+}
+
+.Fourth_Section h2 {
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: -10px;
+}
